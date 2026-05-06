@@ -259,6 +259,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 011f85c3-1e08-4432-b112-d4398017d352,family.ryukyu,available,22.98,,92,45,6,namecheap,,
 011fa829-e722-4536-ad17-d4621fa2861b,dogsledmail.jewelry,available,19.99,,94,0,12,name.com,,
 011fb4d8-74a0-4885-a6d2-fa85eac35ea5,AcademyAwards.management,available,34.98,,68,3,14,namecheap,,
+012370ce-658c-4000-bb00-0dad304a60af,television.shop,premium,3125,,90,20,10,name.com,,
 01237f64-b5b8-4c91-898f-fc5a283d5f63,dogsbodies.movie,available,69.99,,76,1,10,name.com,,
 0123996a-ae9d-4bb6-8f65-2c13ccd8a060,destinies.construction,available,15.99,,72,4,9,name.com,,
 0123cc8e-7815-4d02-bcb3-4f40b220b60d,jetblack.diy,available,39.99,,82,8,9,name.com,,
@@ -281,6 +282,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0137a71d-fa86-4f18-9ebf-a5630de779b9,sharps.immobilien,available,14.99,,70,9,6,name.com,,
 0137fbab-a4da-4e99-bf5b-f67e3fefa027,veggies.dad,available,16.98,,64,7,7,namecheap,,
 013891a4-443a-453f-b9d9-0173bde0cecd,dogwoods.inc,premium,2061.5,2660,76,2,8,namesilo,,
+013a12a9-85d5-47c5-9fa9-1046e9d96ae9,hero.group,resell,,,76,44,4,Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn),16/02/2025 12:57,16/02/2027 12:57
 013aa1c8-880e-40f7-917e-6f26bb95700e,cucumbers.university,available,19.99,,74,4,9,name.com,,
 013b1d97-84fa-4cac-b3b2-67985aa70544,thirdyear.food,available,5.49,39.99,66,1,10,namesilo,,
 013b522f-3f05-4394-b70f-6aa79d7133f0,CoventGarden.country,available,2450,,72,6,13,namecheap,,
@@ -651,7 +653,6 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0305a067-23ad-4337-bfb2-c95b2c0acbef,MerryXmas.cruises,available,68.98,,70,4,10,namecheap,,
 0305e740-0ce0-40dd-9f61-48e4d9cf65e3,cucumbers.construction,available,15.99,,74,4,9,name.com,,
 030741b2-aa2d-4ae8-95d5-09be269dcdac,chocolates.dealer,premium,2170,2800,70,11,10,namecheap,,
-0308323e-bdc8-45a2-846e-fea2f5c48b7f,time.place,resell,,,92,45,4,Porkbun LLC,01/06/2020 18:07,01/06/2026 18:07
 03085605-e114-432b-b416-b5260cd282cb,barbecuedpork.website,available,4.99,,58,0,14,name.com,,
 03085d35-6246-4d04-9830-e7f510047040,wig.mobile,premium,1250,,76,16,3,name.com,,
 0309079e-f047-4dc8-ac98-f7465f7f6dea,MerryXmas.institute,available,37.98,,70,4,10,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 04b35dbe-bf09-4147-96ae-fa9f4411dfb0,constants.shoes,available,39.99,,70,4,9,name.com,,
 04b74ba3-06e3-4b08-8030-e2d4d8bfc129,MickeyMouse.giving,available,35.98,,86,11,12,namecheap,,
 04b8a2f6-e633-459d-93fb-07a9c7340a39,towels.ink,available,2.99,,68,9,6,name.com,,
-04b8fadb-2b9f-4288-a141-0e23c461f358,chickensalad.bz,available,25,,76,3,13,name.com,,

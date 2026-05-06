@@ -1,22 +1,22 @@
-# Brandable One-Word Domains (334,829)
+# Available One-Word Brandable Domains (334,958)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-334%2C829%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-334%2C958%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-Daily-updated public extract of brandable one-word domains from Unique Domains.
+This selection contains 334,958 one-word domains with strong brandability scores across 505 TLDs. Updated daily. Median ask is 576.13, so comparison usually comes down to TLD fit, memorability, and renewal discipline.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **334,829 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **334,958 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 334,829 domains
+**Public extract:** 1,000 rows · **Live catalog:** 334,958 domains · **Median ask:** $576.13 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-01  
+**Last updated:** 2026-05-06  
 **Canonical page:** `https://unique.domains/domains/brandable`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar         |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ----------------- |
-| CocaCola.press     | available | $43.48    | —             | 92             | 82     | 9      | namecheap         |
-| time.place         | resell    | —         | —             | 92             | 45     | 4      | Porkbun LLC       |
-| CocaCola.cfd       | premium   | $360.50   | $721          | 92             | 82     | 9      | namecheap         |
-| CocaCola.inc       | available | $2,798    | —             | 92             | 82     | 9      | namecheap         |
-| key.management     | resell    | —         | —             | 80             | 42     | 3      | Porkbun LLC       |
-| Chanel.you         | premium   | $350      | $350          | 80             | 77     | 6      | namecheap         |
-| family.ryukyu      | available | $22.98    | —             | 92             | 45     | 6      | namecheap         |
-| chatbot.homes      | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc.   |
-| events.talk        | premium   | $625      | —             | 68             | 37     | 6      | name.com          |
-| matcha.realty      | available | $179.99   | —             | 86             | 39     | 6      | name.com          |
-| chatbot.gay        | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc.   |
-| events.shopping    | premium   | $500      | —             | 68             | 37     | 6      | name.com          |
-| matcha.lease       | available | $14.99    | —             | 86             | 39     | 6      | name.com          |
-| movement.me        | resell    | —         | —             | 92             | 32     | 8      | Dynadot Inc       |
-| events.properties  | premium   | $250      | —             | 68             | 37     | 6      | name.com          |
-| matcha.immo        | available | $14.99    | —             | 86             | 39     | 6      | name.com          |
-| destination.health | resell    | —         | —             | 90             | 25     | 11     | NameCheap, Inc.   |
-| events.pictures    | premium   | $25       | —             | 68             | 37     | 6      | name.com          |
-| matcha.dentist     | available | $76.99    | —             | 86             | 39     | 6      | name.com          |
-| destination.church | resell    | —         | —             | 90             | 25     | 11     | Sav.com, LLC - 16 |
+| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
+| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
+| CocaCola.press     | available | $43.48    | —             | 92             | 82     | 9      | namecheap                                               |
+| hero.group         | resell    | —         | —             | 76             | 44     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
+| CocaCola.cfd       | premium   | $360.50   | $721          | 92             | 82     | 9      | namecheap                                               |
+| CocaCola.inc       | available | $2,798    | —             | 92             | 82     | 9      | namecheap                                               |
+| key.management     | resell    | —         | —             | 80             | 42     | 3      | Porkbun LLC                                             |
+| Chanel.you         | premium   | $350      | $350          | 80             | 77     | 6      | namecheap                                               |
+| family.ryukyu      | available | $22.98    | —             | 92             | 45     | 6      | namecheap                                               |
+| chatbot.homes      | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc.                                         |
+| events.talk        | premium   | $625      | —             | 68             | 37     | 6      | name.com                                                |
+| matcha.realty      | available | $179.99   | —             | 86             | 39     | 6      | name.com                                                |
+| chatbot.gay        | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc.                                         |
+| events.shopping    | premium   | $500      | —             | 68             | 37     | 6      | name.com                                                |
+| matcha.lease       | available | $14.99    | —             | 86             | 39     | 6      | name.com                                                |
+| movement.me        | resell    | —         | —             | 92             | 32     | 8      | Dynadot Inc                                             |
+| events.properties  | premium   | $250      | —             | 68             | 37     | 6      | name.com                                                |
+| matcha.immo        | available | $14.99    | —             | 86             | 39     | 6      | name.com                                                |
+| destination.health | resell    | —         | —             | 90             | 25     | 11     | NameCheap, Inc.                                         |
+| events.pictures    | premium   | $25       | —             | 68             | 37     | 6      | name.com                                                |
+| matcha.dentist     | available | $76.99    | —             | 86             | 39     | 6      | name.com                                                |
+| destination.church | resell    | —         | —             | 90             | 25     | 11     | Sav.com, LLC - 16                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -91,13 +91,13 @@ These rows are selected to show a more legible mix of visible asks, resale conte
 
 You are seeing the public sample. Unique Domains keeps the exact search context and adds saved workflows, deeper filters, and alerting.
 
-| GitHub extract          | Unique Domains                                   |
-| ----------------------- | ------------------------------------------------ |
-| 1,000-row public sample | 334,829 live domains                             |
-| Static CSV / JSON       | live search and daily refresh                    |
-| Basic exported fields   | deeper price, demand, risk, and workflow context |
-| No persistence          | Radar, saved search, and alerts                  |
-| No founder workflow     | Project, shortlist, and next-step workflow       |
+| GitHub extract          | Unique Domains                             |
+| ----------------------- | ------------------------------------------ |
+| 1,000-row public sample | 334,958 live domains                       |
+| Static CSV / JSON       | live search and daily refresh              |
+| Basic exported fields   | 0 high-demand names under $2,500           |
+| No persistence          | Radar, saved search, and alerts            |
+| No founder workflow     | Project, shortlist, and next-step workflow |
 
 If this sample already feels useful, Unique Domains is where the exact search becomes a workflow.
 
@@ -120,13 +120,12 @@ See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-This repository follows the exact public search represented by the canonical page above.
+These domains are one-word names filtered for high brandability. The set is broad in extension and tone, with examples ranging from clear.investments and infant.systems to talk.hamburg and key.webcam. That variety creates opportunity, but it also makes TLD fit important. For founders, the best options are usually the names that sound natural when spoken and match the intended market. For investors, focus on clean wording, realistic ask levels, and whether the extension supports resale demand. The median ask is 576.13, which keeps price comparison relevant, but a strong one-word match can still justify paying above the middle of the range.
 
-- This repository is a public extract, not the full live catalog.
-- Counts, prices, and statuses can change over time.
-- Scores are decision-support signals, not guarantees of resale value.
-- Trademark, SEO, and risk signals should be treated as screening inputs, not legal or specialist advice.
-- Unique Domains contains deeper filters, monitoring, and decision workflows than this public extract.
+- One-word domains with brandability scores of 80+
+- 334,958 names spread across 505 different TLDs
+- Median ask: 576.13 across this selection
+- Compare TLD fit, recall, and renewal discipline
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -143,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Brandable One-Word Domains*. Version 2026-05-01. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Brandable Domains*. Version 2026-05-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
