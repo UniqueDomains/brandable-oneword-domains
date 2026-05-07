@@ -862,6 +862,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 041134c8-d3e7-4b34-b6f3-74a7a8c90b9d,WorldExpo.channel,available,16.48,,69,9,10,namecheap,,
 0411ace9-9a1a-4722-aa86-19e483d93f0a,CocaCola.press,available,43.48,,92,82,9,namecheap,,
 0411d932-ef78-42d3-b761-9524af500c50,HarryPotter.trade,premium,490,70,72,20,12,namecheap,,
+041430fa-f82a-47ce-a49a-800ee19748ef,gusto.ryukyu,available,22.98,,84,21,5,namecheap,,
 04155cb4-6b39-4ee7-b7e1-39bd911e642f,AcademyAwards.maison,available,69.98,,68,3,14,namecheap,,
 0416cdce-84d3-4b0f-a014-0764b2ce29ca,Snickers.global,available,127.98,,80,10,8,namecheap,,
 0418d460-4462-4b69-b60c-dd78dd3102bc,thirdyear.sydney,available,54.98,,66,1,10,namecheap,,
@@ -998,4 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 04b10e5b-bbd3-4214-bbf6-514ab15dfcd1,MickeyMouse.surgery,available,68.98,,86,11,12,namecheap,,
 04b35dbe-bf09-4147-96ae-fa9f4411dfb0,constants.shoes,available,39.99,,70,4,9,name.com,,
 04b74ba3-06e3-4b08-8030-e2d4d8bfc129,MickeyMouse.giving,available,35.98,,86,11,12,namecheap,,
-04b8a2f6-e633-459d-93fb-07a9c7340a39,towels.ink,available,2.99,,68,9,6,name.com,,
