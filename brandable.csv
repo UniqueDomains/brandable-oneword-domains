@@ -113,6 +113,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 007f1b1c-ef44-4e94-878e-ce73ec25a93d,abilities.free,premium,125,,74,4,9,name.com,,
 0081b7d2-efc4-4794-abf4-06a51a788c31,constants.theatre,available,509.99,529.99,70,4,9,namesilo,,
 0082e876-0971-4f43-9e9c-4c7a1adad962,RomanEmpire.day,available,16.98,,86,4,12,namecheap,,
+00843e4e-7c72-4873-821b-4ee3367fac05,something.in,resell,,,86,25,9,Costrar EOOD,08/05/2026 14:21,08/05/2027 14:21
 0085b86f-1c08-4183-85c5-d0c519027a7b,MickeyMouse.love,available,38.98,,86,11,12,namecheap,,
 008810b4-f627-41da-8684-0248f709488e,jetaircraft.cam,available,22.98,,62,1,12,namecheap,,
 008a1f99-cd2a-4739-8415-ec5699364c22,WonderWoman.day,premium,82.6,82.6,92,10,12,namecheap,,
@@ -762,6 +763,7 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 0396fc82-dd61-462e-9807-c558d14d420b,JollyRoger.best,available,23.08,,82,10,11,namecheap,,
 0398a4ae-ee83-4585-acc5-3ee73159031c,dogsbodies.builders,available,7.99,,76,1,10,name.com,,
 039a1424-5f8f-48a0-b6ed-86c3454475df,profitability.express,available,16.99,,76,8,13,name.com,,
+039a2f46-861b-4e6b-b4d7-a6dfbedc6343,else.quest,premium,,,80,21,4,,,
 039a7458-19dc-472e-9cb7-134646637ed0,Places.rest,available,41.98,,74,22,6,namecheap,,
 039c3479-7a95-46d6-8b2f-0eaaa97e491a,designs.credit,available,11.99,,72,21,7,name.com,,
 039c840a-391f-4a4d-841e-54b8abf3753a,finalfrontier.website,available,4.99,,76,7,14,name.com,,
@@ -997,5 +999,3 @@ id,domain,status,purchase_price,renewal_price,attractiveness,demand,length,regis
 04a959e9-62e2-469f-abac-4c24d4add1d5,dogstooth.jetzt,available,9.99,,76,1,9,name.com,,
 04ab23b9-c2a5-439a-a58c-908489f4e205,bonappetit.industries,available,17.49,,86,8,11,name.com,,
 04b10e5b-bbd3-4214-bbf6-514ab15dfcd1,MickeyMouse.surgery,available,68.98,,86,11,12,namecheap,,
-04b35dbe-bf09-4147-96ae-fa9f4411dfb0,constants.shoes,available,39.99,,70,4,9,name.com,,
-04b74ba3-06e3-4b08-8030-e2d4d8bfc129,MickeyMouse.giving,available,35.98,,86,11,12,namecheap,,
