@@ -71,18 +71,18 @@ print(df.head())
 | key.management     | resell    | —         | —             | 80             | 42     | 3      | Porkbun LLC                                             |
 | Chanel.you         | premium   | $350      | $350          | 80             | 77     | 6      | namecheap                                               |
 | family.ryukyu      | available | $22.98    | —             | 92             | 45     | 6      | namecheap                                               |
-| chatbot.homes      | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc.                                         |
+| chatbot.homes      | resell    | —         | —             | 82             | 40     | 7      | Spaceship, Inc.                                         |
 | events.talk        | premium   | $625      | —             | 68             | 37     | 6      | name.com                                                |
-| matcha.realty      | available | $179.99   | —             | 86             | 39     | 6      | name.com                                                |
-| chatbot.gay        | resell    | —         | —             | 82             | 36     | 7      | Spaceship, Inc.                                         |
+| chatbot.paris      | available | $51.98    | —             | 82             | 40     | 7      | namecheap                                               |
+| chatbot.gay        | resell    | —         | —             | 82             | 40     | 7      | Spaceship, Inc.                                         |
 | events.shopping    | premium   | $500      | —             | 68             | 37     | 6      | name.com                                                |
-| matcha.lease       | available | $14.99    | —             | 86             | 39     | 6      | name.com                                                |
+| matcha.realty      | available | $179.99   | —             | 86             | 39     | 6      | name.com                                                |
 | movement.me        | resell    | —         | —             | 92             | 32     | 8      | Dynadot Inc                                             |
 | events.properties  | premium   | $250      | —             | 68             | 37     | 6      | name.com                                                |
-| matcha.immo        | available | $14.99    | —             | 86             | 39     | 6      | name.com                                                |
+| matcha.lease       | available | $14.99    | —             | 86             | 39     | 6      | name.com                                                |
 | destination.health | resell    | —         | —             | 90             | 25     | 11     | NameCheap, Inc.                                         |
 | events.pictures    | premium   | $25       | —             | 68             | 37     | 6      | name.com                                                |
-| matcha.dentist     | available | $76.99    | —             | 86             | 39     | 6      | name.com                                                |
+| matcha.immo        | available | $14.99    | —             | 86             | 39     | 6      | name.com                                                |
 | destination.church | resell    | —         | —             | 90             | 25     | 11     | Sav.com, LLC - 16                                       |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
