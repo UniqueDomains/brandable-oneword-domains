@@ -1,10 +1,10 @@
-# Available One-Word Brandable Domains (335,369)
+# Available One-Word Brandable Domains (335,380)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-335%2C369%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-335%2C380%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection contains 334,958 one-word domains with strong brandability scores across 505 TLDs. Updated daily. Median ask is 576.13, so comparison usually comes down to TLD fit, memorability, and renewal discipline.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **335,369 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **335,380 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 335,369 domains · **Median ask:** $576.96 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 335,380 domains · **Median ask:** $423.20 · **High-demand under $2,500:** 0
 
-**Last updated:** 2026-05-27  
+**Last updated:** 2026-06-04  
 **Canonical page:** `https://unique.domains/domains/brandable`  
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain             | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                               |
-| ------------------ | --------- | --------- | ------------- | -------------- | ------ | ------ | ------------------------------------------------------- |
-| CocaCola.press     | available | $43.48    | —             | 92             | 82     | 9      | namecheap                                               |
-| hero.group         | resell    | —         | —             | 76             | 44     | 4      | Alibaba Cloud Computing Ltd. d/b/a HiChina (www.net.cn) |
-| CocaCola.cfd       | premium   | $360.50   | $721          | 92             | 82     | 9      | namecheap                                               |
-| CocaCola.inc       | available | $2,798    | —             | 92             | 82     | 9      | namecheap                                               |
-| key.management     | resell    | —         | —             | 80             | 42     | 3      | Porkbun LLC                                             |
-| Chanel.you         | premium   | $350      | $350          | 80             | 77     | 6      | namecheap                                               |
-| family.ryukyu      | available | $22.98    | —             | 92             | 45     | 6      | namecheap                                               |
-| chatbot.homes      | resell    | —         | —             | 82             | 40     | 7      | Spaceship, Inc.                                         |
-| events.talk        | premium   | $625      | —             | 68             | 37     | 6      | name.com                                                |
-| chatbot.paris      | available | $51.98    | —             | 82             | 40     | 7      | namecheap                                               |
-| chatbot.gay        | resell    | —         | —             | 82             | 40     | 7      | Spaceship, Inc.                                         |
-| events.shopping    | premium   | $500      | —             | 68             | 37     | 6      | name.com                                                |
-| matcha.realty      | available | $179.99   | —             | 86             | 39     | 6      | name.com                                                |
-| movement.me        | resell    | —         | —             | 92             | 32     | 8      | Dynadot Inc                                             |
-| events.properties  | premium   | $250      | —             | 68             | 37     | 6      | name.com                                                |
-| matcha.lease       | available | $14.99    | —             | 86             | 39     | 6      | name.com                                                |
-| something.in       | resell    | —         | —             | 86             | 25     | 9      | Costrar EOOD                                            |
-| events.pictures    | premium   | $25       | —             | 68             | 37     | 6      | name.com                                                |
-| matcha.immo        | available | $14.99    | —             | 86             | 39     | 6      | name.com                                                |
-| destination.health | resell    | —         | —             | 90             | 24     | 11     | NameCheap, Inc.                                         |
+| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| mac.voting          | available | $1,448    | —             | 94             | 82     | 3      | namecheap        |
+| sports.theater      | resell    | $80.98    | —             | 110            | 47     | 6      | Dynadot Inc      |
+| orange.diet         | premium   | $2,660    | $2,660        | 74             | 83     | 6      | namesilo         |
+| universal.luxury    | available | $49.99    | —             | 96             | 80     | 9      | name.com         |
+| twentytwo.live      | resell    | $3.99     | $43.99        | 84             | 12     | 10     | Sav.com, LLC     |
+| Minecraft.christmas | premium   | $2,500    | —             | 87             | 82     | 9      | name.com         |
+| muffintin.ai        | available | $92.98    | —             | 70             | 72     | 10     | namecheap        |
+| Uber.lawyer         | resell    | —         | —             | 106            | 85     | 4      | GoDaddy.com, LLC |
+| Siri.site           | premium   | $156.25   | —             | 76             | 70     | 4      | name.com         |
+| Audi.dad            | available | $16.98    | —             | 86             | 70     | 4      | namecheap        |
+| Maddy.org           | resell    | —         | —             | 65             | 84     | 5      | GoDaddy.com, LLC |
+| aladdin.pics        | premium   | $2,500    | —             | 76             | 67     | 7      | name.com         |
+| BBC.hosting         | available | $309.99   | $329.99       | 94             | 68     | 3      | namesilo         |
+| fun.technology      | resell    | —         | —             | 122            | 62     | 3      | Sav.com, LLC     |
+| get.fashion         | premium   | $5,000    | —             | 88             | 64     | 3      | name.com         |
+| Skype.sydney        | available | $54.98    | —             | 96             | 66     | 5      | namecheap        |
+| the.support         | resell    | —         | —             | 98             | 57     | 3      | 1API GmbH        |
+| pay.industries      | premium   | $500      | —             | 84             | 63     | 3      | name.com         |
+| identity.gives      | available | $5.99     | —             | 80             | 65     | 8      | name.com         |
+| the.media           | resell    | —         | —             | 98             | 57     | 3      | 1API GmbH        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,7 +93,7 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 335,369 live domains                       |
+| 1,000-row public sample | 335,380 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
 | Basic exported fields   | 0 high-demand names under $2,500           |
 | No persistence          | Radar, saved search, and alerts            |
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Brandable Domains*. Version 2026-05-27. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Available One-Word Brandable Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
