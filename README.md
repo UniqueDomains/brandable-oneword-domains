@@ -1,23 +1,23 @@
-# Available One-Word Brandable Domains (335,380)
+# Brandable One-Word Domains (335,411)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-335%2C380%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-335%2C411%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
 
-This selection contains 334,958 one-word domains with strong brandability scores across 505 TLDs. Updated daily. Median ask is 576.13, so comparison usually comes down to TLD fit, memorability, and renewal discipline.
+This selection includes 335,411 brandable one-word domains across 506 TLDs, with a median ask of $423.20. Most names are available now, with smaller premium and resale segments. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **335,380 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **335,411 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 335,380 domains · **Median ask:** $423.20 · **High-demand under $2,500:** 0
+**Public extract:** 1,000 rows · **Live catalog:** 335,411 domains · **Median ask:** $423.20 · **High-demand under $2,500:** 1,713
 
-**Last updated:** 2026-06-04  
-**Canonical page:** `https://unique.domains/domains/brandable`  
+**Last updated:** 2026-08-06
+**Canonical page:** `https://unique.domains/domains/brandable`
 **Best for:** founders, investors, studios
 
 ---
@@ -43,13 +43,13 @@ This repository is the public extract for the exact Unique Domains search repres
 
 ### Files
 
-- `brandable.csv` — public CSV extract (1,000 rows)
-- `brandable.json` — public JSON extract (1,000 rows)
-- `DATA_DICTIONARY.md` — field definitions for the exported files
-- `METHODOLOGY.md` — scope, refresh policy, and caveats
-- `CHANGELOG.md` — latest snapshot metadata
-- `CITATION.cff` — machine-readable dataset citation metadata
-- `LICENSE` — terms for the public extract
+- `brandable.csv`, public CSV extract (1,000 rows)
+- `brandable.json`, public JSON extract (1,000 rows)
+- `DATA_DICTIONARY.md`, field definitions for the exported files
+- `METHODOLOGY.md`, scope, refresh policy, and caveats
+- `CHANGELOG.md`, latest snapshot metadata
+- `CITATION.cff`, machine-readable dataset citation metadata
+- `LICENSE`, terms for the public extract
 
 ## 🧭 Quick start
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain              | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
-| ------------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
-| mac.voting          | available | $1,448    | —             | 94             | 82     | 3      | namecheap        |
-| sports.theater      | resell    | $80.98    | —             | 110            | 47     | 6      | Dynadot Inc      |
-| orange.diet         | premium   | $2,660    | $2,660        | 74             | 83     | 6      | namesilo         |
-| universal.luxury    | available | $49.99    | —             | 96             | 80     | 9      | name.com         |
-| twentytwo.live      | resell    | $3.99     | $43.99        | 84             | 12     | 10     | Sav.com, LLC     |
-| Minecraft.christmas | premium   | $2,500    | —             | 87             | 82     | 9      | name.com         |
-| muffintin.ai        | available | $92.98    | —             | 70             | 72     | 10     | namecheap        |
-| Uber.lawyer         | resell    | —         | —             | 106            | 85     | 4      | GoDaddy.com, LLC |
-| Siri.site           | premium   | $156.25   | —             | 76             | 70     | 4      | name.com         |
-| Audi.dad            | available | $16.98    | —             | 86             | 70     | 4      | namecheap        |
-| Maddy.org           | resell    | —         | —             | 65             | 84     | 5      | GoDaddy.com, LLC |
-| aladdin.pics        | premium   | $2,500    | —             | 76             | 67     | 7      | name.com         |
-| BBC.hosting         | available | $309.99   | $329.99       | 94             | 68     | 3      | namesilo         |
-| fun.technology      | resell    | —         | —             | 122            | 62     | 3      | Sav.com, LLC     |
-| get.fashion         | premium   | $5,000    | —             | 88             | 64     | 3      | name.com         |
-| Skype.sydney        | available | $54.98    | —             | 96             | 66     | 5      | namecheap        |
-| the.support         | resell    | —         | —             | 98             | 57     | 3      | 1API GmbH        |
-| pay.industries      | premium   | $500      | —             | 84             | 63     | 3      | name.com         |
-| identity.gives      | available | $5.99     | —             | 80             | 65     | 8      | name.com         |
-| the.media           | resell    | —         | —             | 98             | 57     | 3      | 1API GmbH        |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| act.army         | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
+| sports.theater   | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                               |
+| ace.creditcard   | premium   | $250      | $250          | high           | medium | 3      | name.com                                                  |
+| BBC.hosting      | available | $309.99   | $329.99       | high           | medium | 3      | namesilo                                                  |
+| twentytwo.live   | resell    | $3.99     | $43.99        | high           | low    | 10     | Sav.com, LLC                                              |
+| all.homes        | premium   | $812.50   | $812.50       | high           | medium | 3      | name.com                                                  |
+| DIY.theatre      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo                                                  |
+| any.express      | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| any.motorcycles  | premium   | $812.50   | —             | high           | medium | 3      | name.com                                                  |
+| dry.storage      | available | $799      | $949.99       | high           | low    | 3      | name.com                                                  |
+| day.cab          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| any.yachts       | premium   | $812.50   | —             | high           | medium | 3      | name.com                                                  |
+| dry.tickets      | available | $399.99   | $664.99       | high           | low    | 3      | name.com                                                  |
+| eat.us           | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| awe.construction | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
+| Eid.car          | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                  |
+| fun.technology   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
+| bad.clinic       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
+| Eid.cruises      | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
+| mom.club         | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 335,380 live domains                       |
+| 1,000-row public sample | 335,411 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 0 high-demand names under $2,500           |
+| Basic exported fields   | 1,713 high-demand names under $2,500       |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
@@ -105,27 +105,27 @@ If this sample already feels useful, Unique Domains is where the exact search be
 
 ## 🧱 Field summary
 
-- `domain` — Fully qualified domain name.
-- `status` — Current acquisition state for the domain in the public extract.
-- `purchase_price` — Visible purchase price when available.
-- `renewal_price` — Visible renewal price when available.
-- `attractiveness` — Composite naming score used as a decision-support signal.
-- `demand` — Relative buyer-pressure score when available.
-- `length` — Character count without the TLD.
-- `registrar` — Registrar name when known.
-- `created_at` — Creation timestamp when known.
-- `expires_at` — Expiry timestamp when known.
+- `domain`, Fully qualified domain name.
+- `status`, Current acquisition state for the domain in the public extract.
+- `purchase_price`, Visible purchase price when available.
+- `renewal_price`, Visible renewal price when available.
+- `attractiveness`, Public composite naming band used as a decision-support signal.
+- `demand`, Public buyer-pressure band when available.
+- `length`, Character count without the TLD.
+- `registrar`, Registrar name when known.
+- `created_at`, Creation timestamp when known.
+- `expires_at`, Expiry timestamp when known.
 
 See [DATA_DICTIONARY.md](./DATA_DICTIONARY.md) for full definitions and types.
 
 ## ⚠️ Methodology and caveats
 
-These domains are one-word names filtered for high brandability. The set is broad in extension and tone, with examples ranging from clear.investments and infant.systems to talk.hamburg and key.webcam. That variety creates opportunity, but it also makes TLD fit important. For founders, the best options are usually the names that sound natural when spoken and match the intended market. For investors, focus on clean wording, realistic ask levels, and whether the extension supports resale demand. The median ask is 576.13, which keeps price comparison relevant, but a strong one-word match can still justify paying above the middle of the range.
+This set of one-word domains scores 80+ on brandability, meaning short, memorable, easy-to-spell names with a modern, playful, or elegant tone. Most of the 335,411 names here are available now, priced under $500, with a median ask of $423.20 across 506 TLDs. A smaller share carries premium or resale status, and demand is concentrated at the low end, with only a top-tier fraction scoring in the highest demand bracket. When comparing these domains, weigh asking price against demand signals and renewal cost before deciding which one fits your budget and brand.
 
-- One-word domains with brandability scores of 80+
-- 334,958 names spread across 505 different TLDs
-- Median ask: 576.13 across this selection
-- Compare TLD fit, recall, and renewal discipline
+- 257,453 available now, plus premium and resale options
+- Median ask $423.20 across 506 TLDs
+- Most names price under $500; fewer than 1% exceed $10k
+- Only 1,765 names sit in the top 15% demand tier
 
 See [METHODOLOGY.md](./METHODOLOGY.md) for the full methodology reference.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Available One-Word Brandable Domains*. Version 2026-06-04. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Brandable One-Word Domains*. Version 2026-08-06. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
