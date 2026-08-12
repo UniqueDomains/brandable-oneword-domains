@@ -16,7 +16,7 @@ This selection includes 335,411 brandable one-word domains across 506 TLDs, with
 
 **Public extract:** 1,000 rows · **Live catalog:** 336,410 domains · **Median ask:** $421.10 · **High-demand under $2,500:** 1,713
 
-**Last updated:** 2026-08-11
+**Last updated:** 2026-08-12
 **Canonical page:** `https://unique.domains/domains/brandable`
 **Best for:** founders, investors, studios
 
@@ -64,6 +64,8 @@ print(df.head())
 
 | domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
+| half.bargains    | available | $21.99    | —             | high           | low    | 4      | name.com                                                  |
+| half.to          | resell    | —         | —             | high           | low    | 4      | NAMECHEAP                                                 |
 | act.army         | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
 | sports.theater   | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                               |
 | ace.creditcard   | premium   | $250      | $250          | high           | medium | 3      | name.com                                                  |
@@ -82,8 +84,6 @@ print(df.head())
 | Eid.car          | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                  |
 | fun.technology   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
 | bad.clinic       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
-| Eid.cruises      | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
-| mom.club         | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -142,7 +142,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Brandable One-Word Domains*. Version 2026-08-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Brandable One-Word Domains*. Version 2026-08-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
