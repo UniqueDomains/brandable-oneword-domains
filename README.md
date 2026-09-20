@@ -16,7 +16,7 @@ This selection includes 335,411 brandable one-word domains across 506 TLDs, with
 
 **Public extract:** 1,000 rows · **Live catalog:** 341,769 domains · **Median ask:** $411.07 · **High-demand under $2,500:** 1,710
 
-**Last updated:** 2026-09-19
+**Last updated:** 2026-09-20
 **Canonical page:** `https://unique.domains/domains/brandable`
 **Best for:** founders, investors, studios
 
@@ -67,22 +67,22 @@ print(df.head())
 | act.army         | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
 | sports.theater   | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                               |
 | ace.creditcard   | premium   | $250      | $250          | high           | medium | 3      | name.com                                                  |
-| BBC.hosting      | available | $309.99   | $429.99       | medium         | medium | 3      | namesilo                                                  |
+| diy.theatre      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo                                                  |
 | twentytwo.live   | resell    | $3.99     | $43.99        | high           | low    | 10     | Sav.com, LLC                                              |
 | all.homes        | premium   | $812.50   | $812.50       | high           | medium | 3      | name.com                                                  |
-| DIY.theatre      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo                                                  |
+| dry.storage      | available | $799      | $949.99       | high           | low    | 3      | name.com                                                  |
 | any.express      | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | any.motorcycles  | premium   | $812.50   | —             | high           | medium | 3      | name.com                                                  |
-| dry.storage      | available | $799      | $949.99       | high           | low    | 3      | name.com                                                  |
+| dry.tickets      | available | $399.99   | $664.99       | high           | low    | 3      | name.com                                                  |
 | day.cab          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
 | any.yachts       | premium   | $812.50   | —             | high           | medium | 3      | name.com                                                  |
-| dry.tickets      | available | $399.99   | $664.99       | high           | low    | 3      | name.com                                                  |
+| eid.car          | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                  |
 | eat.us           | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
 | awe.construction | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| Eid.car          | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                  |
+| eid.cruises      | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
 | fun.technology   | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC                                              |
 | bad.clinic       | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
-| Eid.cruises      | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
+| eid.giving       | available | $5.99     | —             | high           | low    | 3      | name.com                                                  |
 | mom.club         | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Brandable One-Word Domains*. Version 2026-09-19. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Brandable One-Word Domains*. Version 2026-09-20. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
