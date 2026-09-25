@@ -16,7 +16,7 @@ This selection includes 335,411 brandable one-word domains across 506 TLDs, with
 
 **Public extract:** 1,000 rows · **Live catalog:** 341,769 domains · **Median ask:** $411.07 · **High-demand under $2,500:** 1,710
 
-**Last updated:** 2026-09-24
+**Last updated:** 2026-09-25
 **Canonical page:** `https://unique.domains/domains/brandable`
 **Best for:** founders, investors, studios
 
@@ -62,28 +62,28 @@ print(df.head())
 
 ## 🗂️ Sample rows
 
-| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
-| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| act.army         | available | $19.99    | —             | high           | low    | 3      | name.com                                                  |
-| sports.theater   | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc                                               |
-| ace.creditcard   | premium   | $242      | $242          | medium         | low    | 3      | namesilo                                                  |
-| diy.theatre      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo                                                  |
-| twentytwo.live   | resell    | $3.99     | $43.99        | medium         | low    | 10     | Sav.com, LLC                                              |
-| all.homes        | premium   | $832      | $832          | medium         | low    | 3      | namesilo                                                  |
-| dry.storage      | available | $799      | $949.99       | high           | low    | 3      | name.com                                                  |
-| any.express      | resell    | —         | —             | medium         | low    | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
-| any.motorcycles  | premium   | $832      | $832          | medium         | low    | 3      | namesilo                                                  |
-| dry.tickets      | available | $399.99   | $664.99       | high           | low    | 3      | name.com                                                  |
-| day.cab          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
-| any.yachts       | premium   | $832      | $832          | medium         | low    | 3      | namesilo                                                  |
-| eid.car          | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo                                                  |
-| eat.us           | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
-| awe.construction | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo                                                  |
-| eid.cruises      | available | $14.99    | —             | high           | low    | 3      | name.com                                                  |
-| fun.technology   | resell    | —         | —             | medium         | low    | 3      | Sav.com, LLC                                              |
-| bad.clinic       | premium   | $85.80    | $85.80        | medium         | low    | 3      | namecheap                                                 |
-| eid.giving       | available | $5.99     | —             | high           | low    | 3      | name.com                                                  |
-| mom.club         | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| domain           | status    | ask_price | renewal_price | attractiveness | demand | length | registrar        |
+| ---------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | ---------------- |
+| act.army         | available | $18.99    | $39.99        | high           | low    | 3      | namesilo         |
+| sports.theater   | resell    | $80.98    | —             | high           | medium | 6      | Dynadot Inc      |
+| act.foo          | premium   | $1,248.75 | —             | high           | low    | 3      | name.com         |
+| awe.wine         | available | $9.99     | —             | high           | low    | 3      | name.com         |
+| day.cab          | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| awe.construction | premium   | $118.80   | $118.80       | high           | low    | 3      | namesilo         |
+| diy.theatre      | available | $509.99   | $529.99       | high           | low    | 3      | namesilo         |
+| eat.us           | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| awe.contractors  | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| eid.car          | available | $1,999.99 | $2,199        | high           | low    | 3      | namesilo         |
+| for.vin          | resell    | —         | —             | high           | medium | 3      | DNSPod, Inc.     |
+| cat.sexy         | premium   | $31,250   | —             | high           | high   | 3      | name.com         |
+| eid.cruises      | available | $14.99    | —             | high           | low    | 3      | name.com         |
+| mom.club         | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC |
+| day.academy      | premium   | $242      | $242          | high           | low    | 3      | namesilo         |
+| eid.giving       | available | $5.99     | —             | high           | low    | 3      | name.com         |
+| the.media        | resell    | —         | —             | high           | medium | 3      | 1API GmbH        |
+| day.gripe        | premium   | $78.54    | $78.54        | high           | low    | 3      | namesilo         |
+| had.baby         | available | $17.99    | $54.99        | high           | low    | 3      | namesilo         |
+| the.support      | resell    | —         | —             | high           | medium | 3      | 1API GmbH        |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Brandable One-Word Domains*. Version 2026-09-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Brandable One-Word Domains*. Version 2026-09-25. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
