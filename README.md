@@ -1,10 +1,10 @@
-# Brandable One-Word Domains (253,756)
+# Brandable One-Word Domains (250,967)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-253%2C756%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-250%2C967%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,9 +12,9 @@
 This selection includes 335,411 brandable one-word domains across 506 TLDs, with a median ask of $423.20. Most names are available now, with smaller premium and resale segments. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **253,756 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **250,967 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** 253,756 domains · **Median ask:** $441.77 · **High-demand under $2,500:** 1,908
+**Public extract:** 1,000 rows · **Live catalog:** 250,967 domains · **Median ask:** $440.30 · **High-demand under $2,500:** 2,001
 
 **Last updated:** 2026-09-28
 **Canonical page:** `https://unique.domains/domains/brandable`
@@ -73,7 +73,7 @@ print(df.head())
 | fit.ngo         | available | $18.98    | $24.98        | high           | medium | 3      | namecheap                                                 |
 | art.claims      | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | all.boutique    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
-| fun.tienda      | available | $59.99    | $59.99        | high           | medium | 3      | namesilo                                                  |
+| fun.tienda      | available | $62.98    | $74.98        | high           | medium | 3      | namecheap                                                 |
 | awe.info        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
 | all.foo         | premium   | $167.70   | $167.70       | high           | medium | 3      | namecheap                                                 |
 | lol.theatre     | available | $509.99   | $529.99       | high           | low    | 3      | namesilo                                                  |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                             |
 | ----------------------- | ------------------------------------------ |
-| 1,000-row public sample | 253,756 live domains                       |
+| 1,000-row public sample | 250,967 live domains                       |
 | Static CSV / JSON       | live search and daily refresh              |
-| Basic exported fields   | 1,908 high-demand names under $2,500       |
+| Basic exported fields   | 2,001 high-demand names under $2,500       |
 | No persistence          | Radar, saved search, and alerts            |
 | No founder workflow     | Project, shortlist, and next-step workflow |
 
