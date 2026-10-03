@@ -16,7 +16,7 @@ This selection includes 335,411 brandable one-word domains across 506 TLDs, with
 
 **Public extract:** 1,000 rows · **Live catalog:** 250,509 domains · **Median ask:** $407.00 · **High-demand under $2,500:** 2,529
 
-**Last updated:** 2026-10-02
+**Last updated:** 2026-10-03
 **Canonical page:** `https://unique.domains/domains/brandable`
 **Best for:** founders, investors, studios
 
@@ -64,9 +64,6 @@ print(df.head())
 
 | domain          | status    | ask_price | renewal_price | attractiveness | demand | length | registrar                                                 |
 | --------------- | --------- | --------- | ------------- | -------------- | ------ | ------ | --------------------------------------------------------- |
-| family.auto     | available | $2,070    | $2,950        | high           | medium | 6      | namecheap                                                 |
-| iphone.phd      | available | $20.84    | $20.84        | high           | high   | 6      | spaceship                                                 |
-| see.vision      | premium   | $242      | $242          | high           | medium | 3      | namesilo                                                  |
 | any.ong         | available | $16.99    | $16.99        | high           | medium | 3      | name.com                                                  |
 | spanish.domains | resell    | $19.99    | —             | high           | low    | 7      | name.com                                                  |
 | act.codes       | premium   | $68.51    | $68.51        | high           | medium | 3      | spaceship                                                 |
@@ -84,6 +81,9 @@ print(df.head())
 | all.page        | premium   | $638.72   | $638.72       | high           | medium | 3      | namesilo                                                  |
 | mom.auto        | available | $1,863.20 | $2,064.20     | high           | low    | 3      | spaceship                                                 |
 | get.me          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC                                          |
+| any.forsale     | premium   | $71.40    | $71.40        | high           | medium | 3      | namesilo                                                  |
+| mom.loans       | available | $90.20    | $90.20        | high           | low    | 3      | cloudflare                                                |
+| god.cc          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Brandable One-Word Domains*. Version 2026-10-02. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Brandable One-Word Domains*. Version 2026-10-03. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
