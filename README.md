@@ -16,7 +16,7 @@ This selection includes 335,411 brandable one-word domains across 506 TLDs, with
 
 **Public extract:** 1,000 rows · **Live catalog:** 250,812 domains · **Median ask:** $404.27 · **High-demand under $2,500:** 2,792
 
-**Last updated:** 2026-10-11
+**Last updated:** 2026-10-12
 **Canonical page:** `https://unique.domains/domains/brandable`
 **Best for:** founders, investors, studios
 
@@ -68,22 +68,22 @@ print(df.head())
 | spanish.domains | resell    | $19.99    | —             | high           | low    | 7      | name.com                                                  |
 | act.codes       | premium   | $68.51    | $68.51        | high           | medium | 3      | spaceship                                                 |
 | eid.hamburg     | available | $69.98    | $73.98        | high           | low    | 3      | namecheap                                                 |
-| all.coach       | resell    | —         | —             | high           | medium | 3      | Sav.com, LLC - 2                                          |
+| art.claims      | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
 | act.design      | premium   | $273.44   | $273.44       | high           | medium | 3      | porkbun                                                   |
 | fit.ngo         | available | $18.98    | $24.98        | high           | medium | 3      | namecheap                                                 |
-| art.claims      | resell    | —         | —             | high           | medium | 3      | Global Domains International, Inc. DBA DomainCostClub.com |
+| awe.info        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
 | all.boutique    | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo                                                  |
 | fun.tienda      | available | $62.98    | $74.98        | high           | medium | 3      | namecheap                                                 |
-| awe.info        | resell    | —         | —             | high           | low    | 3      | GoDaddy.com, LLC                                          |
+| get.fit         | resell    | —         | —             | high           | high   | 3      | Epik LLC                                                  |
 | all.foo         | premium   | $167.70   | $167.70       | high           | medium | 3      | namecheap                                                 |
 | lol.theatre     | available | $515.45   | $515.45       | high           | low    | 3      | porkbun                                                   |
-| get.fit         | resell    | —         | —             | high           | high   | 3      | Epik LLC                                                  |
+| get.me          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC                                          |
 | all.page        | premium   | $638.72   | $638.72       | high           | medium | 3      | namesilo                                                  |
 | mom.auto        | available | $1,863.20 | $2,064.20     | high           | low    | 3      | spaceship                                                 |
-| get.me          | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC                                          |
+| god.cc          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
 | any.forsale     | premium   | $71.40    | $71.40        | high           | medium | 3      | namesilo                                                  |
 | mom.loans       | available | $90.20    | $90.20        | high           | low    | 3      | cloudflare                                                |
-| god.cc          | resell    | —         | —             | high           | medium | 3      | GoDaddy.com, LLC                                          |
+| hot.live        | resell    | —         | —             | high           | medium | 3      | Name.com, Inc.                                            |
 
 These rows are selected to show a more legible mix of visible asks, resale context, and status coverage from the exact live search.
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Brandable One-Word Domains*. Version 2026-10-11. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Brandable One-Word Domains*. Version 2026-10-12. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
