@@ -16,7 +16,7 @@ This selection includes 335,411 brandable one-word domains across 506 TLDs, with
 
 **Public extract:** 1,000 rows · **Live catalog:** ~242,000 domains · **Median ask:** ~$380.91 · **High-demand under $2,500:** ~1,550
 
-**Last updated:** 2026-10-23
+**Last updated:** 2026-10-24
 **Canonical page:** `https://unique.domains/domains/brandable`
 **Best for:** founders, investors, studios
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Brandable One-Word Domains*. Version 2026-10-23. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Brandable One-Word Domains*. Version 2026-10-24. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
