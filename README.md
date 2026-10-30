@@ -1,10 +1,10 @@
-# Brandable One-Word Domains (~239,000)
+# Brandable One-Word Domains (~238,000)
 
 <p align="left">
   <img alt="status" src="https://img.shields.io/badge/status-active-2ea44f">
   <img alt="updated" src="https://img.shields.io/badge/updated-daily-0969da">
   <img alt="public extract" src="https://img.shields.io/badge/public%20extract-1%2C000%20rows-8250df">
-  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-~239%2C000%20domains-6f42c1">
+  <img alt="live catalog" src="https://img.shields.io/badge/live%20catalog-~238%2C000%20domains-6f42c1">
   <img alt="formats" src="https://img.shields.io/badge/formats-CSV%20%7C%20JSON-f59e0b">
   <img alt="license" src="https://img.shields.io/badge/license-see%20LICENSE-6b7280">
 </p>
@@ -12,11 +12,11 @@
 This selection includes 335,411 brandable one-word domains across 506 TLDs, with a median ask of $423.20. Most names are available now, with smaller premium and resale segments. Updated daily.
 
 > **Important:** this repository is a **public 1,000-row extract**, not the full live catalog.
-> The full live catalog for this exact search currently contains **~239,000 domains** on the canonical page below.
+> The full live catalog for this exact search currently contains **~238,000 domains** on the canonical page below.
 
-**Public extract:** 1,000 rows · **Live catalog:** ~239,000 domains · **Median ask:** ~$272.54 · **High-demand under $2,500:** ~4,700
+**Public extract:** 1,000 rows · **Live catalog:** ~238,000 domains · **Median ask:** ~$279.89 · **High-demand under $2,500:** ~3,550
 
-**Last updated:** 2026-10-29
+**Last updated:** 2026-10-30
 **Canonical page:** `https://unique.domains/domains/brandable`
 **Best for:** founders, investors, studios
 
@@ -70,7 +70,7 @@ print(df.head())
 | fit.ngo      | available | $18.98    | $24.98        | high           | medium | 3      | namecheap        |
 | get.me       | resell    | —         | —             | high           | high   | 3      | GoDaddy.com, LLC |
 | act.design   | premium   | $273.44   | $273.44       | high           | medium | 3      | porkbun          |
-| fun.tienda   | available | $47.81    | $47.81        | high           | high   | 3      | spaceship        |
+| fun.tienda   | available | $59.99    | $59.99        | high           | high   | 3      | namesilo         |
 | hot.live     | resell    | —         | —             | high           | low    | 3      | Name.com, Inc.   |
 | all.boutique | premium   | $78.54    | $78.54        | high           | medium | 3      | namesilo         |
 | lol.theatre  | available | $515.45   | $515.45       | high           | low    | 3      | porkbun          |
@@ -93,9 +93,9 @@ You are seeing the public sample. Unique Domains keeps the exact search context 
 
 | GitHub extract          | Unique Domains                                       |
 | ----------------------- | ---------------------------------------------------- |
-| 1,000-row public sample | ~239,000 live domains                                |
+| 1,000-row public sample | ~238,000 live domains                                |
 | Static CSV / JSON       | live search and daily refresh                        |
-| Basic exported fields   | ~4,700 high-demand names under $2,500                |
+| Basic exported fields   | ~3,550 high-demand names under $2,500                |
 | No persistence          | Radar, saved search, and alerts                      |
 | No naming workflow      | Radar from a naming brief, shortlist, and next steps |
 
@@ -144,7 +144,7 @@ See [CHANGELOG.md](./CHANGELOG.md) for the latest snapshot metadata.
 
 Suggested citation:
 
-> Unique Domains. *Brandable One-Word Domains*. Version 2026-10-29. Public GitHub extract for the exact Unique Domains search represented by this repository.
+> Unique Domains. *Brandable One-Word Domains*. Version 2026-10-30. Public GitHub extract for the exact Unique Domains search represented by this repository.
 
 GitHub citation metadata is available in [CITATION.cff](./CITATION.cff).
 
