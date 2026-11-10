@@ -1,6 +1,6 @@
-# Brandable One-Word Domains (~236,000)
+# Brandable One-Word Domains (~228,000)
 
-~236,000 names in this list today, refreshed every night.
+~228,000 names in this list today, refreshed every night.
 
 Live page: [unique.domains/domains/brandable](https://unique.domains/domains/brandable?utm_source=github&utm_medium=referral&utm_campaign=repo_brandable_oneword_domains&utm_content=top_page)
 
@@ -36,7 +36,6 @@ The first 20 rows of the file, in the file's order.
 | superstar.place        | available | $25.48         | $34.48        | high           | low    | 9      |
 | bicycle.locker         | premium   | $1,100         | $32.32        | high           | medium | 7      |
 | original.sucks         | available | $218.99        | $218.99       | high           | low    | 8      |
-| sexy.tennis            | premium   | $85.80         | $85.80        | high           | low    | 4      |
 | belt.computer          | available | $17.80         | $31.25        | high           | low    | 4      |
 | young.fishing          | premium   | $41.60         | $26.08        | high           | medium | 5      |
 | eight.menu             | available | $27.99         | $27.99        | high           | medium | 5      |
@@ -44,6 +43,7 @@ The first 20 rows of the file, in the file's order.
 | hardly.melbourne       | available | $42.60         | $42.60        | high           | low    | 6      |
 | careful.wtf            | available | $7.49          | $36.49        | high           | low    | 7      |
 | bizarre.homes          | available | $1.80          | $21.98        | high           | low    | 7      |
+| easiest.market         | available | $34.20         | $34.20        | high           | low    | 7      |
 
 ## What is in the data
 
@@ -62,7 +62,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the ~236,000 names in the live list today.
+- The files hold 1,000 rows of the ~228,000 names in the live list today.
 - Every row is a one-word domain name.
 - Status and prices are the last ones Unique Domains stored for each name, not a reading taken on the day of the rebuild.
 - The live count marked with a tilde is estimated from a 2 percent page sample of the catalog and rounded to three significant digits; it moves between nights. The rows in the files are real rows.
