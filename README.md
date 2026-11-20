@@ -1,8 +1,8 @@
-# Brandable One-Word Domains (~227,000)
+# Brandable One-Word Domains (~247,000)
 
 1,000 real brandable one-word domain names, refreshed every night, each with its status, the price to register or buy it and what it renews at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/brandable) holds ~227,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/brandable) holds ~247,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
 
 Live page: [unique.domains/domains/brandable](https://unique.domains/domains/brandable?utm_source=github&utm_medium=referral&utm_campaign=repo_brandable_oneword_domains&utm_content=top_page)
 
@@ -36,7 +36,7 @@ The first 20 rows of the file, in the file's order.
 | instant.accountant     | premium   | $517.70        | $67.48        | high           | medium | 7      |
 | spiderman.memorial     | available | $41.60         | $41.60        | high           | low    | 9      |
 | superstar.place        | available | $25.48         | $34.48        | high           | low    | 9      |
-| bicycle.locker         | premium   | $1,100         | $32.32        | high           | medium | 7      |
+| bicycle.locker         | premium   | $1,035.20      | $31.25        | high           | medium | 7      |
 | original.sucks         | available | $218.99        | $218.99       | high           | low    | 8      |
 | belt.computer          | available | $17.80         | $31.25        | high           | low    | 4      |
 | young.fishing          | premium   | $41.60         | $26.08        | high           | medium | 5      |
@@ -64,7 +64,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the ~227,000 names in the live list today.
+- The files hold 1,000 rows of the ~247,000 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 - The live count marked with a tilde is estimated from a 2 percent page sample of the catalog and rounded to three significant digits; it moves between nights. The rows in the files are real rows.
