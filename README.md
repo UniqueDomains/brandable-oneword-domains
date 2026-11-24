@@ -1,10 +1,10 @@
-# Brandable One-Word Domains (~223,000)
+# Brandable One-Word Domains (~237,000)
 
 **Looking for a name, not a file?** [Find the strongest domain still available for your business](https://unique.domains/?utm_source=github&utm_medium=referral&utm_campaign=repo_brandable_oneword_domains&utm_content=top_home).
 
 1,000 real brandable one-word domain names, refreshed every night, with their status and, when known, the price to register or buy them and what they renew at. One line of pandas, no scraping, no key.
 
-Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/brandable) holds ~223,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
+Each word exists once on each ending. [The list behind this file](https://unique.domains/domains/brandable) holds ~237,000 names today; the file is a sample of it, in the list's own neutral order, not a ranking.
 
 Live page: [unique.domains/domains/brandable](https://unique.domains/domains/brandable?utm_source=github&utm_medium=referral&utm_campaign=repo_brandable_oneword_domains&utm_content=top_page)
 
@@ -22,6 +22,8 @@ df = pd.read_csv("https://raw.githubusercontent.com/UniqueDomains/brandable-onew
 print(df.head())
 ```
 
+Also on Kaggle, with every list: [One-Word Domains: Brandable, Short and More](https://www.kaggle.com/datasets/uniquedomains/one-word-domain-lists).
+
 ## Sample rows
 
 The first 20 rows of the file, in the file's order.
@@ -31,7 +33,7 @@ The first 20 rows of the file, in the file's order.
 | transformers.vacations | available | $30.20         | $30.20        | high           | low    | 12     |
 | built.institute        | available | $5.38          | $21.94        | high           | medium | 5      |
 | accurate.gg            | resell    | —              | —             | high           | low    | 8      |
-| agreed.viajes          | available | $94.98         | $124.48       | high           | low    | 6      |
+| agreed.viajes          | available | $35.18         | $35.18        | high           | low    | 6      |
 | goal.insure            | available | $72.99         | $72.99        | high           | low    | 4      |
 | modem.attorney         | available | $62.99         | $62.99        | high           | low    | 5      |
 | microphone.protection  | available | $1,999.99      | $2,049.99     | high           | low    | 10     |
@@ -66,7 +68,7 @@ Types and formats: [DATA_DICTIONARY.md](./DATA_DICTIONARY.md).
 
 ## Methodology
 
-- The files hold 1,000 rows of the ~223,000 names in the live list today.
+- The files hold 1,000 rows of the ~237,000 names in the live list today.
 - Every row is a one-word domain name.
 - Check a name before you act on it: a status or a price can change.
 - The live count marked with a tilde is estimated from a 2 percent page sample of the catalog and rounded to three significant digits; it moves between nights. The rows in the files are real rows.
